@@ -13,7 +13,7 @@ Instructions to set up environement:
     - Initialise first 3 entries in database: mongo custtracker scripts/init.mongo.js
 4) Start API
     - cd to API folder
-    - Run npm install
+    - Run screen npm install
     - npm start to load at localhost:5000
 5) Start UI
     - cd to UI folder
