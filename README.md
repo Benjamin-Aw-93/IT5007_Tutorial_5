@@ -6,7 +6,7 @@ Done by: Benjamin Aw A0124029N
 
 Instructions to set up environement:
 
-Assumption: npm, git and mogo are set up in environemnt already.
+Assumption: npm, git and mogo are set up in environment already.
 
 1) Expose both port 5000 and 3000 for API and UI server respectively
 2) Pull the files into the home directory 
