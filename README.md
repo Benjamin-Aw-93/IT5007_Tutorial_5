@@ -10,6 +10,7 @@ Instructions to set up environement:
 2) Pull the files into the home directory 
 3) Start up mogodb
     - Using command: screen mongod
+    - Initialise first 3 entries in database: mongo custtracker scripts/init.mongo.js
 4) Start API
     - cd to API folder
     - Run npm install
