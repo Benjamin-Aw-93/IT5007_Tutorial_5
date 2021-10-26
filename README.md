@@ -11,7 +11,7 @@ Instructions to set up environement:
 3) Start up mogodb
     - Using command: screen mongod
 4) Start API
-    - cd to App folder
+    - cd to API folder
     - Run npm install
     - npm start to load at localhost:5000
 5) Start UI
