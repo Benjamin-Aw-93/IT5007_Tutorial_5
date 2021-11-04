@@ -10,7 +10,7 @@ Assumption: npm, git and mogo are set up in environment already.
 
 1) Expose both port 5000 and 3000 for API and UI server respectively
 2) Pull the files into the home directory 
-3) Start up mogodb
+3) Start up mogodb in API folder
     - Using command: screen mongod
     - Initialise first 3 entries in database: mongo custtracker scripts/init.mongo.js
 4) Start API
