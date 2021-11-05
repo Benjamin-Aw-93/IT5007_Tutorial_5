@@ -15,9 +15,10 @@ Assumption: npm, git and mogo are set up in environment already.
     - Initialise first 3 entries in database: mongo custtracker scripts/init.mongo.js
 4) Start API
     - cd to API folder
-    - Run screen npm install
+    - Run npm install
     - npm start to load at localhost:5000
 5) Start UI
+    - Open an new terminal 
     - cd to UI folder
     - Run npm install
     - npm start to load at localhost:3000
